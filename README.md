@@ -8,7 +8,7 @@ Carbon Engine Functionality:
 ---------------------------------------
 PCSX-ReARMed GPL Source Code release does not include 
 functionality for integrating with Steam, Nintendo Switch, PlayStation 4 or PlayStation 5.
-This includes profiles, achievements, the overlay, or any other proprietory features that are binded by the various platform NDA agreements.
+This includes profiles, achievements, the overlay, or any other proprietary features that are binded by the various platform NDA agreements.
 
 LICENSE
 =======
